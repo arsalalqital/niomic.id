@@ -1,0 +1,2 @@
+# niomic.id
+repository belajar
